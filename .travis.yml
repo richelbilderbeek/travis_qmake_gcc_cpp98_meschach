@@ -1,0 +1,11 @@
+language: cpp
+compiler: gcc
+dist: trusty
+
+install: 
+  - sudo apt-get install libmeschach-dev
+
+script: 
+ - qmake
+ - make
+ - ./travis_qmake_gcc_cpp98_meschach
