@@ -20,3 +20,4 @@ More complex builds:
 
 Less builds:
  * Use of STL only: [travis_qmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98)
+
